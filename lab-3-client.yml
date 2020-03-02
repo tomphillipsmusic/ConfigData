@@ -1,4 +1,5 @@
 # lab-3-client.yml
 
 ---
-lucky-word: Rabbit Foot
+spring:
+  lucky-word: Rabbit Foot
